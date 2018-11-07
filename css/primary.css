@@ -4,7 +4,7 @@
 /* Container styles */
 body {
   
-    background-image: url("../images/back.jpg");
+
   background-color: #fff;
   color: #333;
   font-family: 'Lato';
@@ -212,4 +212,6 @@ body {
     stroke-dashoffset: 401;
   }
 }
+
+
 /* END Keyframes for the initial animation */
