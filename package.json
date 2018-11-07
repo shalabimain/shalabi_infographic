@@ -1,0 +1,23 @@
+{
+  "name": "shalabi_infographic",
+  "version": "1.0.0",
+  "description": "my project (food wasting) i would like to show on about a 4 scale way how much food is being wasted  and how much its being wasted  as well as how it looks like when it gets wasted and how it effects the enviroment in a good way as well as the bad way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalabimain/shalabi_infographic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalabimain/shalabi_infographic/issues"
+  },
+  "homepage": "https://github.com/shalabimain/shalabi_infographic#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
